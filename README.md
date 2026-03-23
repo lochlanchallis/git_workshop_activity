@@ -6,3 +6,5 @@ The hardware platform has been created with two 10-bit PIOs, one for the 10 swit
 
 ## Week 3 Activity
 Durign the week 3 workshop, students will clone this repository, and use test the platform by writing to the LEDs within a NIOS-II C program.
+
+Stuff for workshop 4
